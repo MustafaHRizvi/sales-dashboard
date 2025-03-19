@@ -3,4 +3,4 @@ pandas
 plotly
 seaborn
 sqlalchemy
-psycopg2
+psycopg2-binary
