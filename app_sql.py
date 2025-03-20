@@ -3,8 +3,7 @@ import pandas as pd
 import plotly.express as px
 from sqlalchemy import create_engine
 
-# Setup the database connection (use your actual connection details)
-# Connection string (replace with your actual values)
+# Setup the database connection
 host = 'localhost'
 port = 5432
 dbname = 'postgres'
