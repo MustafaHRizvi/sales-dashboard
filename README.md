@@ -12,6 +12,8 @@ This repository contains a Streamlit dashboard for visualizing and analyzing sal
 
 - **app_pandas.py**: The same as the SQL version but uses Pandas instead. This version was created to allow the dashboard to be hosted on the Streamlit Community Cloud.
 
+- **[Live Dashboard](https://mustafahrizvi-sales-dashboard-app-pandas-2eagui.streamlit.app/)**: A live version of the Streamlit dashboard hosted on Streamlit Community Cloud.
+
 - **retail_orders_kaggle.ipynb**: A Jupyter Notebook containing the data cleaning, preprocessing, and exploratory data analysis (EDA) steps used to prepare the dataset for analysis and visualization. The notebook includes:
   - Handling missing values.
   - Data transformations (e.g., feature engineering).
